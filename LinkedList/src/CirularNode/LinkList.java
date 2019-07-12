@@ -42,7 +42,7 @@ public class LinkList {
 	 * @空间复杂度 O(1)
 	 * @param headNode 表头节点
 	 */
-	public void print(CircularNode headNode){
+	public static void print(CircularNode headNode){
 		CircularNode currentNode = headNode;
 		while(currentNode != null){
 			System.out.print(currentNode.getData() + " ");
