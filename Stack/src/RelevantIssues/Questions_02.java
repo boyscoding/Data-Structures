@@ -9,7 +9,7 @@ import java.util.Stack;
 
 /**
  * @program: Data Structures
- * @description:问题1：如何设计一个栈，使得getMinimum() 操作的时间复杂度为O(1)？
+ * @description: 问题2：如何设计一个栈，使得getMinimum() 操作的时间复杂度为O(1)？
  * @author: boyscoding
  * @create: 2019-07-05
  **/
@@ -79,5 +79,31 @@ public class Questions_02 {
 	public void print() {
 		elementStack.print();
 	}
+	@Test
+	public void testMethod(){
+		Questions_02 stack = new Questions_02();
+		stack.push(4);
+		stack.push(3);
+		stack.push(5);
+		stack.push(2);
+		stack.push(3);
+		stack.push(1);
 
+		stack.pop();
+		System.out.println("当前栈的最小值： " + stack.getMinimum());
+
+		stack.pop();
+		stack.pop();
+		System.out.println("当前栈的最小值： " + stack.getMinimum());
+
+		stack.pop();
+		stack.pop();
+		System.out.println("当前栈的最小值： " + stack.getMinimum());
+	}
+	/**
+	 * 输出如下：
+	 * 		当前栈的最小值： 2
+	 * 		当前栈的最小值： 3
+	 * 		当前栈的最小值： 4
+	 */
 }

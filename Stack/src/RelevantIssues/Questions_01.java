@@ -69,4 +69,10 @@ public class Questions_01 {
 		System.out.println(Method1(bracketMap,checkStr2)); //true
 		System.out.println(Method1(bracketMap,checkStr3)); //false
 	}
+	/**
+	 * 输出如下：
+	 * 		false
+	 * 		true
+	 * 		false
+	 */
 }
