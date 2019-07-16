@@ -1,3 +1,5 @@
+package Stack;
+
 import SinglyNode.SinglyNode;
 
 import java.util.EmptyStackException;
@@ -58,5 +60,30 @@ public class LinkStack<T> {
 			return length;
 		}
 	}
+	/**
+	 * 删除整个栈
+	 * @时间复杂度 O(1)
+	 */
+	public void deleteStack(){
+		headNode = null;
+	}
+	public void print() {
+		SinglyNode<T> tmpNode = headNode;
+		printFromEnd(tmpNode);
+	}
+	/**
+	 * 思路：递归，从链表末尾开始输出
+	 * @时间复杂度 O(n)
+	 * @param headNode
+	 * @return
+	 */
+	public void printFromEnd(SinglyNode<T> headNode){
+		if(headNode != null){
+			if(headNode.getNext() != null){
+				printFromEnd(headNode.getNext());
+			}
 
+			System.out.print(headNode.getData() + " ");
+		}
+	}
 }
