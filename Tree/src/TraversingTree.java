@@ -1,3 +1,5 @@
+import Stack.LinkStack;
+
 /**
  * @program: Data Structures
  * @description: 遍历树
