@@ -56,7 +56,6 @@ public class Questions_06 {
 	 * 输出如下：
 	 * 		true
 	 */
-
 }
 
 
