@@ -2,9 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e04853b8-e8c6-465c-8fd9-3a427978f276" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Sort/Sort.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sort/src/冒泡排序/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sort/src/基数排序/RedixSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sort/src/堆排序/HeapSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sort/src/希尔排序/ShellSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sort/src/归并排序/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sort/src/快速排序/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sort/src/插入排序/InsertSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sort/src/桶排序/BucketSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sort/src/计数排序/CountSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sort/src/选择排序/SelectSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LinkedList/src/RelevantIssues/Questions_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/LinkedList/src/RelevantIssues/Questions_01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LinkedList/RelevantIssues/Questions_01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LinkedList/RelevantIssues/Questions_01.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,73 +26,58 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Stack/src/RelevantIssues/Questions_02.java">
+        <entry file="file://$PROJECT_DIR$/Sort/src/冒泡排序/BubbleSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2002">
-              <caret line="106" column="12" selection-start-line="106" selection-start-column="12" selection-end-line="106" selection-end-column="12" />
+            <state relative-caret-position="515">
+              <caret line="37" column="19" selection-start-line="37" selection-start-column="19" selection-end-line="37" selection-end-column="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Stack/src/RelevantIssues/Questions_03.java">
+        <entry file="file://$PROJECT_DIR$/Sort/src/选择排序/SelectSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2002">
-              <caret line="92" column="16" selection-start-line="92" selection-start-column="16" selection-end-line="92" selection-end-column="16" />
+            <state relative-caret-position="415">
+              <caret line="42" column="20" lean-forward="true" selection-start-line="42" selection-start-column="20" selection-end-line="42" selection-end-column="20" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Stack/src/RelevantIssues/Questions_04.java">
+        <entry file="file://$PROJECT_DIR$/Sort/src/归并排序/MergeSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1122">
-              <caret line="52" selection-start-line="52" selection-end-line="52" />
+            <state relative-caret-position="44">
+              <caret line="57" column="40" lean-forward="true" selection-start-line="57" selection-start-column="40" selection-end-line="57" selection-end-column="40" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Stack/src/RelevantIssues/Questions_05.java">
+        <entry file="file://$PROJECT_DIR$/Sort/src/快速排序/QuickSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="66">
-              <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Tree/src/BinaryTreeNode.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-47">
-              <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+            <state relative-caret-position="360">
+              <caret line="69" column="5" lean-forward="true" selection-start-line="64" selection-start-column="4" selection-end-line="69" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Tree/src/TraversingTree.java">
+        <entry file="file://$PROJECT_DIR$/Sort/src/堆排序/HeapSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2068">
-              <caret line="94" column="17" selection-start-line="94" selection-start-column="12" selection-end-line="94" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Stack/src/RelevantIssues/Questions_06.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="506">
-              <caret line="24" column="24" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LinkedList/src/RelevantIssues/Questions_15.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+            <state relative-caret-position="308">
+              <caret line="68" column="20" selection-start-line="68" selection-start-column="20" selection-end-line="68" selection-end-column="20" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -91,10 +86,42 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LinkedList/src/RelevantIssues/Questions_16.java">
+        <entry file="file://$PROJECT_DIR$/Sort/src/计数排序/CountSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1188">
-              <caret line="56" column="20" selection-start-line="56" selection-start-column="20" selection-end-line="56" selection-end-column="20" />
+            <state relative-caret-position="594">
+              <caret line="39" column="1" lean-forward="true" selection-start-line="39" selection-start-column="1" selection-end-line="39" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Sort/src/桶排序/BucketSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="273">
+              <caret line="35" column="13" lean-forward="true" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1006#1007#0" expanded="true" />
+                <element signature="e#1026#1027#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Sort/src/基数排序/RedixSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="427">
+              <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Sort/src/插入排序/InsertSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="339">
+              <caret line="36" column="23" lean-forward="true" selection-start-line="36" selection-start-column="23" selection-end-line="36" selection-end-column="23" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -103,10 +130,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LinkedList/src/RelevantIssues/Questions_14.java">
+        <entry file="file://$PROJECT_DIR$/Sort/src/希尔排序/ShellSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="924">
-              <caret line="43" column="7" selection-start-line="43" selection-start-column="7" selection-end-line="43" selection-end-column="7" />
+            <state relative-caret-position="330">
+              <caret line="41" column="18" selection-start-line="41" selection-start-column="18" selection-end-line="41" selection-end-column="18" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -138,8 +165,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/LinkedList/src/SinglyNode/SinglyNode.java" />
-        <option value="$PROJECT_DIR$/LinkedList/src/DoubleNode/DoubleNode.java" />
         <option value="$PROJECT_DIR$/LinkedList/src/SinglyNode/LinkList.java" />
         <option value="$PROJECT_DIR$/LinkedList/src/DoubleNode/LinkList.java" />
         <option value="$PROJECT_DIR$/LinkedList/src/CirularNode/CircularNode.java" />
@@ -181,14 +206,24 @@
         <option value="$PROJECT_DIR$/Stack/src/RelevantIssues/Questions_05.java" />
         <option value="$PROJECT_DIR$/Stack/src/RelevantIssues/Questions_06.java" />
         <option value="$PROJECT_DIR$/LinkedList/src/RelevantIssues/Questions_01.java" />
+        <option value="$PROJECT_DIR$/Sort/src/选择排序/SelectSort.java" />
+        <option value="$PROJECT_DIR$/Sort/src/归并排序/MergeSort.java" />
+        <option value="$PROJECT_DIR$/Sort/src/计数排序/CountSort.java" />
+        <option value="$PROJECT_DIR$/Sort/src/桶排序/BucketSort.java" />
+        <option value="$PROJECT_DIR$/Sort/src/基数排序/RedixSort.java" />
+        <option value="$PROJECT_DIR$/Sort/src/冒泡排序/BubbleSort.java" />
+        <option value="$PROJECT_DIR$/Sort/src/插入排序/InsertSort.java" />
+        <option value="$PROJECT_DIR$/Sort/src/希尔排序/ShellSort.java" />
+        <option value="$PROJECT_DIR$/Sort/src/快速排序/QuickSort.java" />
+        <option value="$PROJECT_DIR$/Sort/src/堆排序/HeapSort.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-201" />
-    <option name="y" value="-27" />
-    <option name="width" value="1525" />
-    <option name="height" value="976" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="190" />
+    <option name="y" value="-28" />
+    <option name="width" value="1526" />
+    <option name="height" value="977" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -198,28 +233,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Data Structures" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LinkedList" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Data Structures" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Tree" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Data Structures" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Tree" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
+      <pane id="ProjectPane" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -261,12 +277,12 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.Questions_01.testMethods">
-    <configuration name="LinkList.testMethods (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="LinkedList" />
-      <option name="PACKAGE_NAME" value="DoubleNode" />
-      <option name="MAIN_CLASS_NAME" value="DoubleNode.LinkList" />
-      <option name="METHOD_NAME" value="testMethods" />
+  <component name="RunManager" selected="JUnit.InsertSort.test">
+    <configuration name="InsertSort.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Sort" />
+      <option name="PACKAGE_NAME" value="插入排序" />
+      <option name="MAIN_CLASS_NAME" value="插入排序.InsertSort" />
+      <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -276,16 +292,6 @@
       <module name="LinkedList" />
       <option name="PACKAGE_NAME" value="CirularNode" />
       <option name="MAIN_CLASS_NAME" value="CirularNode.LinkList" />
-      <option name="METHOD_NAME" value="testMethods" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LinkList.testMethods" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="LinkedList" />
-      <option name="PACKAGE_NAME" value="SinglyNode" />
-      <option name="MAIN_CLASS_NAME" value="SinglyNode.LinkList" />
       <option name="METHOD_NAME" value="testMethods" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -312,13 +318,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SelectSort.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Sort" />
+      <option name="PACKAGE_NAME" value="选择排序" />
+      <option name="MAIN_CLASS_NAME" value="选择排序.SelectSort" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.InsertSort.test" />
+        <item itemvalue="JUnit.SelectSort.test" />
         <item itemvalue="JUnit.Questions_01.testMethods" />
         <item itemvalue="JUnit.Questions_06.testMethods" />
         <item itemvalue="JUnit.LinkList.testMethods (2)" />
-        <item itemvalue="JUnit.LinkList.testMethods (1)" />
-        <item itemvalue="JUnit.LinkList.testMethods" />
       </list>
     </recent_temporary>
   </component>
@@ -326,9 +342,6 @@
     <configuration />
   </component>
   <component name="TestHistory">
-    <history-entry file="LinkList_testMethods - 2019.07.11 at 10h 24m 07s.xml">
-      <configuration name="LinkList.testMethods" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="LinkList_testMethods - 2019.07.11 at 10h 25m 11s.xml">
       <configuration name="LinkList.testMethods" configurationId="JUnit" />
     </history-entry>
@@ -353,18 +366,25 @@
     <history-entry file="Questions_01_testMethods - 2019.07.18 at 20h 04m 39s.xml">
       <configuration name="Questions_01.testMethods" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="SelectSort_test - 2019.07.20 at 11h 07m 42s.xml">
+      <configuration name="SelectSort.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="InsertSort_test - 2019.07.20 at 11h 13m 16s.xml">
+      <configuration name="InsertSort.test" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1501" height="886" extended-state="6" />
+    <frame x="538" y="29" width="1231" height="788" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24618585" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30716723" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Learn" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.28381962" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2820122" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -669,6 +689,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Stack/src/RelevantIssues/Questions_05.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tree/src/BinaryTreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Stack/src/RelevantIssues/Questions_06.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="506">
@@ -706,24 +740,112 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Stack/src/RelevantIssues/Questions_05.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tree/src/BinaryTreeNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-47">
-          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Tree/src/TraversingTree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2068">
-          <caret line="94" column="17" selection-start-line="94" selection-start-column="12" selection-end-line="94" selection-end-column="17" />
+        <state relative-caret-position="355">
+          <caret line="101" column="39" selection-start-line="101" selection-start-column="39" selection-end-line="101" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sort/src/冒泡排序/BubbleSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sort/src/基数排序/RedixSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1078">
+          <caret line="49" column="45" lean-forward="true" selection-start-line="49" selection-start-column="45" selection-end-line="49" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sort/src/堆排序/HeapSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1540">
+          <caret line="70" column="5" lean-forward="true" selection-start-line="65" selection-start-column="4" selection-end-line="70" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sort/src/希尔排序/ShellSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="902">
+          <caret line="41" column="18" selection-start-line="41" selection-start-column="18" selection-end-line="41" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sort/src/归并排序/MergeSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1254">
+          <caret line="57" column="40" lean-forward="true" selection-start-line="57" selection-start-column="40" selection-end-line="57" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sort/src/快速排序/QuickSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sort/src/插入排序/InsertSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sort/src/桶排序/BucketSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="22" lean-forward="true" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1006#1007#0" expanded="true" />
+            <element signature="e#1026#1027#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sort/src/计数排序/CountSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sort/src/选择排序/SelectSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="27" lean-forward="true" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -777,7 +899,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>Queue</last-edited>
+          <last-edited>Sort</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
