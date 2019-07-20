@@ -38,7 +38,7 @@ public class ShellSort {
 
 	@Test
 	public void test(){
-		int[] arr= {3,8,6,2,1,8};
+		int[] arr= {72,6,57,88,60,42,83,73,48,85};
 		shellSort(arr);
 		System.out.println(Arrays.toString(arr));
 	}
