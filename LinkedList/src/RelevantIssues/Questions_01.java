@@ -79,7 +79,7 @@ public class Questions_01 {
 
 		//1，frontNode先移动 n-1 次
 		for(int i=1;i<n;i++){
-			if(frontNode != null){
+			if(frontNode.getNext() != null){
 				frontNode = frontNode.getNext();
 			}else{
 				return null;
@@ -111,7 +111,7 @@ public class Questions_01 {
 		//方法二
 		System.out.println("方法二：" + Method2(headNode, 2));
 		//方法三
-		System.out.println("方法三：" + Method3(headNode, 2));
+		System.out.println("方法三：" + Method3(headNode, 6));
 
 		/**
 		 *输出如下：
